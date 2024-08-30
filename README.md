@@ -19,11 +19,9 @@
 - Implemented Processing large data sets to NLP computation and train on various algorithms to train on intent identification with just single click.
 
 ## Patents
-### Intelligent humanoid interactive content recommender
-[Patent](https://patents.justia.com/patent/10762161)
+### [Intelligent humanoid interactive content recommender](https://patents.justia.com/patent/10762161)
 
-###  Platform for supporting multiple virtual agent applications
-[Patent](https://patents.justia.com/patent/11093307)
+###  [Platform for supporting multiple virtual agent applications](https://patents.justia.com/patent/11093307)
 
 ## Publications
 ### Smart Entertainment - A Critiquing Based Dialog System for Eliciting User Preferences and Making Recommendations
